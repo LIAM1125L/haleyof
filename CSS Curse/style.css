@@ -1,0 +1,22 @@
+#Texto {
+    color: aqua;
+}
+
+#parrafo {color: black;}
+
+#parrafo2{color: aqua;}
+
+#heading1 {color: yellow;}
+
+#heading2 {color: blueviolet;}
+    #heading3{color: brown;}
+    #heading00{color: royalblue;}
+    #heading000{color: yellow;}
+    .texto {color: aqua
+        ; }
+#parrafohtml{color: red;}
+p.Html{color: brown;}
+p.Html{font-style: inherit;} 
+p.Html{font-size: large;}
+#heading2{font-size: 20px;}
+p.copy{color: black; font-size: 30px;font-style: italic;font: 300;}
